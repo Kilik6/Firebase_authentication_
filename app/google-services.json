@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797871356871",
+    "firebase_url": "https://chattool-3eccf-default-rtdb.firebaseio.com",
+    "project_id": "chattool-3eccf",
+    "storage_bucket": "chattool-3eccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797871356871:android:11f60a3a62b41710cbf7e2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797871356871-lpsjrtnnakidtco3qtdmj80emjhbc221.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoxWjsI3lxGrYGCSRu7gQ1hgYyoUt7yIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797871356871-lpsjrtnnakidtco3qtdmj80emjhbc221.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

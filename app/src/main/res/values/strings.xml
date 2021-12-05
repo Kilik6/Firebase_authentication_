@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Firebase_authentication_</string>
+    <string name="註冊">註冊</string>
+    <string name="清除">清除</string>
+    <string name="在此顯示是否註冊成功">在此顯示是否註冊成功!!!!</string>
+    <string name="登入如下">登入如下：</string>
+    <string name="登入">登入</string>
+    <string name="換頁">換頁</string>
+    <string name="在此顯示是否登入成功">在此顯示是否登入成功!!!!!</string>
+    <string name="帳號">帳號</string>
+    <string name="註冊如下">註冊如下</string>
+    <string name="密碼">密碼</string>
+    <string name="Textview">TextView</string>
+</resources>
